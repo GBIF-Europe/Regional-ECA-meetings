@@ -1,11 +1,8 @@
 # GBIF Europe and Central Asia (ECA)
 
-https://www.gbif.org/the-gbif-network/europe
+The [GBIF regional Nodes committee for Europe and Central Asia (ECA)](https://www.gbif.org/the-gbif-network/europe) includes all GBIF Node Managers in the region.
 
-The GBIF regional Nodes committee for Europe and Central Asia (ECA) includes all GBIF Nodes in the region.
-
-ECA Nodes meet at least once each year, either as a side-event at the Global Nodes Meeting (back-to-back with the GBIF Governing Board meetings) 
-or in separate ECA Nodes meetings.
+ECA Nodes meet at least once each year, either as a side-event at the bi-annual Global Nodes Meeting (back-to-back with the GBIF Governing Board meetings) or in independent ECA Nodes meetings. All Node Managers are expected to attend the ECA meetings. ECA meetings are normally also open for node staff and interested observers from non-member countries or international organizations in the region. The purpose of the ECA Nodes meetings are coordination between ECA Nodes and development of the [strategic work plans](https://github.com/GBIF-Europe/RegionalWorkProgramme). Normally one of the ECA Nodes will act as host for the meeting. ECA nodes will normally cover their own travel costs to attend the meetings.
 
 ## Previoius ECA Nodes meetings
 * 2008 Copenhagen, Denmark
