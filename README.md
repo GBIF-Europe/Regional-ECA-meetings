@@ -21,5 +21,6 @@ ECA Nodes meet at least once each year, either as a side-event at the bi-annual 
 * [2022 Luxembourg, Luxembourg](https://github.com/GBIF-Europe/Regional-ECA-meetings/issues/1)
 * [2023 Warsaw, Poland](https://github.com/GBIF-Europe/Regional-ECA-meetings/issues/5)
 
+# Monthly Zoom meetings
 
 [Our monthly Zoom meetings are documented as issues here](https://github.com/GBIF-Europe/Regional-ECA-meetings/issues?q=is%3Aissue+label%3Amonthly-meeting+)
