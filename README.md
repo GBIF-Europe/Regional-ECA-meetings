@@ -37,7 +37,9 @@ See also: [WorkProgram issues](https://github.com/GBIF-Europe/RegionalWorkProgra
 
 Completely volunteer and informal opportunity to meet and work together on ECA nodes topics for 30-60 minutes depending on interest. Primarily for [GBIF ECA participant node managers](https://www.gbif.org/the-gbif-network/europe), however, node staff, and representatives of GBIF observers are also most welcome to join the virtual sessions.
 
-![eurasia-time-zone-map](https://user-images.githubusercontent.com/4330242/159457513-bca045db-e6cc-40c6-a7d6-e2370fdd4d1f.jpg)
+![ECA time zone map](https://github.com/GBIF-Europe/Regional-ECA-meetings/assets/4330242/350860e1-0444-44d1-83cd-cacac7452537)
+
+
 
 Meeting dates in 2022:
 - [Monday 2022-03-28](https://www.timeanddate.com/worldclock/meetingdetails.html?year=2022&month=3&day=28&hour=8&min=0&sec=0&p1=133&p2=16&p3=195&p4=69&p5=37&p6=101&p7=367&p8=370&p9=244&p10=385) (10:00 CEST, summer-time)
