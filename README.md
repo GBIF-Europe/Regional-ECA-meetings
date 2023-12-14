@@ -60,4 +60,4 @@ Meeting dates in 2023:
 - [Monday 2023-05-30](https://www.timeanddate.com/worldclock/meetingdetails.html?year=2023&month=5&day=30&hour=8&min=0&sec=0&p1=133&p2=16&p3=195&p4=69&p5=37&p6=101&p7=367&p8=370&p9=244&p10=385) (10:00 CEST) _Whit Monday, a red day, school holiday (date moved down one day to Tuesday 30th May)_
 - [Monday 2023-06-26](https://www.timeanddate.com/worldclock/meetingdetails.html?year=2023&month=6&day=26&hour=8&min=0&sec=0&p1=133&p2=16&p3=195&p4=69&p5=37&p6=101&p7=367&p8=370&p9=244&p10=385) (10:00 CEST)
 
-Meeting dates after the summer to be scheduled ... ([will schedule in August](https://github.com/GBIF-Europe/Regional-ECA-meetings/issues/17))
+([Meeting dates after the summer](https://github.com/GBIF-Europe/Regional-ECA-meetings/issues/17))
