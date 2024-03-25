@@ -40,25 +40,3 @@ Completely volunteer and informal opportunity to meet and work together on ECA n
 
 ![ECA time zone map](https://github.com/GBIF-Europe/Regional-ECA-meetings/assets/4330242/350860e1-0444-44d1-83cd-cacac7452537)
 
-
-
-Meeting dates in 2022:
-- [Monday 2022-03-28](https://www.timeanddate.com/worldclock/meetingdetails.html?year=2022&month=3&day=28&hour=8&min=0&sec=0&p1=133&p2=16&p3=195&p4=69&p5=37&p6=101&p7=367&p8=370&p9=244&p10=385) (10:00 CEST, summer-time)
-- [Monday 2022-04-25](https://www.timeanddate.com/worldclock/meetingdetails.html?year=2022&month=4&day=25&hour=8&min=0&sec=0&p1=133&p2=16&p3=195&p4=69&p5=37&p6=101&p7=367&p8=370&p9=244&p10=385) (10:00 CEST)
-- [Monday 2022-05-16](https://www.timeanddate.com/worldclock/meetingdetails.html?year=2022&month=5&day=16&hour=8&min=0&sec=0&p1=133&p2=16&p3=195&p4=69&p5=37&p6=101&p7=367&p8=370&p9=244&p10=385) (10:00 CEST, moved one week up because of overlap with the on-site ECA 2022 in Luxembourg)
-- ~~[Monday 2022-05-23](https://www.timeanddate.com/worldclock/meetingdetails.html?year=2022&month=5&day=23&hour=8&min=0&sec=0&p1=133&p2=16&p3=195&p4=69&p5=37&p6=101&p7=367&p8=370&p9=244&p10=385) (10:00 CEST, the same day as the ECA 2022 starts)~~
-- [Monday 2022-06-27](https://www.timeanddate.com/worldclock/meetingdetails.html?year=2022&month=6&day=27&hour=8&min=0&sec=0&p1=133&p2=16&p3=195&p4=69&p5=37&p6=101&p7=367&p8=370&p9=244&p10=385) (10:00 CEST)
-- [Monday 2022-07-25 ](https://www.timeanddate.com/worldclock/meetingdetails.html?year=2022&month=7&day=25&hour=8&min=0&sec=0&p1=133&p2=16&p3=195&p4=69&p5=37&p6=101&p7=367&p8=370&p9=244&p10=385) (10:00 CEST)
-- [Monday 2022-08-29](https://www.timeanddate.com/worldclock/meetingdetails.html?year=2022&month=8&day=29&hour=8&min=0&sec=0&p1=133&p2=16&p3=195&p4=69&p5=37&p6=101&p7=367&p8=370&p9=244&p10=385) (10:00 CEST)
-- [Monday 2022-09-26](https://www.timeanddate.com/worldclock/meetingdetails.html?year=2022&month=9&day=26&hour=8&min=0&sec=0&p1=133&p2=16&p3=195&p4=69&p5=37&p6=101&p7=367&p8=370&p9=244&p10=385) (10:00 CEST, the week before GB29)
-- [Monday 2022-10-31](https://www.timeanddate.com/worldclock/meetingdetails.html?year=2022&month=10&day=31&hour=8&min=0&sec=0&p1=133&p2=16&p3=195&p4=69&p5=37&p6=101&p7=367&p8=370&p9=244&p10=385) (09:00 CET, winter-time)
-- [Monday 2022-11-28](https://www.timeanddate.com/worldclock/meetingdetails.html?year=2022&month=11&day=28&hour=8&min=0&sec=0&p1=133&p2=16&p3=195&p4=69&p5=37&p6=101&p7=367&p8=370&p9=244&p10=385) (09:00 CET)
-
-Meeting dates in 2023:
-- [Monday 2023-02-27](https://www.timeanddate.com/worldclock/meetingdetails.html?year=2023&month=2&day=27&hour=8&min=0&sec=0&p1=133&p2=16&p3=195&p4=69&p5=37&p6=101&p7=367&p8=370&p9=244&p10=385) (09:00 CET)
-- ~~[Monday 2023-03-27](https://www.timeanddate.com/worldclock/meetingdetails.html?year=2023&month=3&day=27&hour=8&min=0&sec=0&p1=133&p2=16&p3=195&p4=69&p5=37&p6=101&p7=367&p8=370&p9=244&p10=385) (10:00 CEST) overlaps with GBIF mid-term meetings~~ (canceled)
-- [Monday 2023-04-24](https://www.timeanddate.com/worldclock/meetingdetails.html?year=2023&month=4&day=24&hour=8&min=0&sec=0&p1=133&p2=16&p3=195&p4=69&p5=37&p6=101&p7=367&p8=370&p9=244&p10=385) (10:00 CEST)
-- [Monday 2023-05-30](https://www.timeanddate.com/worldclock/meetingdetails.html?year=2023&month=5&day=30&hour=8&min=0&sec=0&p1=133&p2=16&p3=195&p4=69&p5=37&p6=101&p7=367&p8=370&p9=244&p10=385) (10:00 CEST) _Whit Monday, a red day, school holiday (date moved down one day to Tuesday 30th May)_
-- [Monday 2023-06-26](https://www.timeanddate.com/worldclock/meetingdetails.html?year=2023&month=6&day=26&hour=8&min=0&sec=0&p1=133&p2=16&p3=195&p4=69&p5=37&p6=101&p7=367&p8=370&p9=244&p10=385) (10:00 CEST)
-
-([Meeting dates after the summer](https://github.com/GBIF-Europe/Regional-ECA-meetings/issues/17))
