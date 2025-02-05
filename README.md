@@ -23,6 +23,7 @@ ECA Nodes meet at least once yearly, either as a side-event at the bi-annual Glo
 * [2022 Luxembourg, Luxembourg](https://github.com/GBIF-Europe/Regional-ECA-meetings/issues/1)
 * [2023 Warsaw, Poland](https://github.com/GBIF-Europe/Regional-ECA-meetings/issues/5)
 * [2024 Zagreb, Croatia](https://github.com/GBIF-Europe/Regional-ECA-meetings/issues/12)
+* 2025 Waterford, Ireland
 
 
 
