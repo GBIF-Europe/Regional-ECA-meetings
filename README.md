@@ -7,7 +7,7 @@ The GBIF nodes in Europe and Central Asia have maintained a series of annual (in
 ECA Nodes meet at least once yearly, either as a side-event at the bi-annual Global Nodes Meeting (back-to-back with the GBIF Governing Board meetings) or in independent ECA Nodes meetings. All Node Managers are expected to attend the ECA meetings. ECA meetings are normally also open for node staff and interested observers from non-member countries or international organizations in the region. The purpose of the ECA Nodes meetings is coordination between ECA Nodes and the development of the [strategic work plans](https://github.com/GBIF-Europe/RegionalWorkProgramme). Normally one of the ECA Nodes will act as host for the meeting. ECA nodes will typically cover their own costs to attend the meetings. See the [guidelines for hosting of regional meetings](https://www.gbif.org/document/3od8vppko8LmfcNvZncw22/guiding-principles-for-the-hosting-of-regional-nodes-meetings).
 
 ### Previous ECA Nodes meetings
-* 2026 Montpellier, France -- [BioMonWeek2026](https://www.biodiversa.eu/2025/11/20/save-the-date-biomonweek2026/)
+* [2026 Montpellier, France](https://www.gbif.org/event/3ioWg1a0c3OaUuYQAR9RPb/biomonweek-2026) -- [BioMonWeek2026](https://www.biodiversa.eu/2025/11/20/save-the-date-biomonweek2026/)
 * [2025 Waterford, Ireland](https://docs.google.com/document/d/1sA_4yQxbUOhd2smJuznOeevf1iPqf6-W87QbbypaDEo)
 * [2024 Zagreb, Croatia](https://github.com/GBIF-Europe/Regional-ECA-meetings/issues/12)
 * [2023 Warsaw, Poland](https://github.com/GBIF-Europe/Regional-ECA-meetings/issues/5)
